@@ -15,6 +15,8 @@
 </p>
 <p>Gulp - was used as a streaming build system.</p>
 
+Before you begin, make sure to set up any environment parameters or configuration settings required for your project. These may include API keys, database connections, or environment-specific variables. 
+
 <h4>To run the project locally:</h4>
 
 1. Clone the repo - select Code -> Local -> HTTPS/SSH and copy the link.
